@@ -25,6 +25,7 @@ video ended so started this one https://www.youtube.com/watch?v=YEEUn5JZ9t0 - Re
 - username=user and password in logs Using default security password: f9b9cdc0-f440-4d13-ba11-1c9372845237
 - can change this in application.properties so have done user=notuser password=password
 - didnt work until I took 'spring.' off front of property names!
+- think app doesn't need @EnableWebSecurity - maybe a later version of spring
 
 
 
